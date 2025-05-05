@@ -1,0 +1,11 @@
+question,answer,choices
+"Which method is called when an object is created from a class in Python?","__init__","__init__,__new__,__class__,__object__"
+"What concept refers to wrapping data and functions into one unit in OOP?","Encapsulation","Abstraction,Encapsulation,Inheritance,Polymorphism"
+"What keyword is used for inheritance in Python classes?","class","inherit,class,object,super"
+"Which widget is used to create a button in Tkinter?","Button","Button,Label,Canvas,Frame"
+"What is the purpose of mainloop() in Tkinter?","Starts the event loop","Creates widgets,Updates window,Starts the event loop,Exits the app"
+"Python supports multiple inheritance.","True","True,False"
+"Private attributes in a class are accessible from outside the class directly.","False","True,False"
+"The Tk() class is used to create the main window in Tkinter.","True","True,False"
+"In OOP, the _______ keyword is used to define a class.","class",
+"The _______ method in Tkinter starts the GUI loop.","mainloop",
